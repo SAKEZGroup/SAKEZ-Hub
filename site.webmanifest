@@ -1,12 +1,12 @@
 {
-  "name": "SAKEZ Group",
-  "short_name": "SAKEZ Group",
-  "description": "Perusahaan induk multisektoral — enam lini usaha dalam satu ekosistem. Dari Visi Menuju Puncak.",
+  "name": "SAKEZ Solusi Indonesia",
+  "short_name": "SAKEZ",
+  "description": "Mitra solusi terintegrasi — data center, keamanan, aplikasi, ERP Odoo, dan sistem operasional.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#0B0B0C",
-  "theme_color": "#0B0B0C",
+  "background_color": "#071A15",
+  "theme_color": "#071A15",
   "lang": "id",
   "icons": []
 }

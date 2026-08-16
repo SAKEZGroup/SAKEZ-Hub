@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sakezgroup.com/sitemap.xml
